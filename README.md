@@ -75,21 +75,24 @@ The **Real Estate Management System (REMS)** is a full-stack web application tha
 ```bash
 git clone https://github.com/Ashwini-Nandagavi /REMS.git
 
-🔐 User Roles
+### 🔐 User Roles
+---
+### 👤 Customer
+---
+-Search properties
+-Book properties-
+-Manage bookings
 
-👤 Customer
-Search properties
-Book properties
-Manage bookings
+### 🧑‍💼 Agent
+---
+-Add/edit/delete properties
+-Upload property details
 
-🧑‍💼 Agent
-Add/edit/delete properties
-Upload property details
-
-🛠️ Admin
-Manage users
-Approve/reject listings
-Monitor platform
+### 🛠️ Admin
+---
+-Manage users
+-Approve/reject listings
+-Monitor platform
 
 🔄 Workflow
 graph TD
