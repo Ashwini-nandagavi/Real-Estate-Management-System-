@@ -45,13 +45,12 @@ The **Real Estate Management System (REMS)** is a full-stack web application tha
 ---
 
 ## 🧠 System Architecture
-       ┌─────────────────────┐
+           ┌─────────────────────┐
        │     Admin Panel     │
        └─────────┬───────────┘
                  │
  ┌───────────────┼───────────────┐
  ▼               ▼               ▼
-
  
 ---
 
@@ -67,59 +66,6 @@ The **Real Estate Management System (REMS)** is a full-stack web application tha
 
 ---
 
----
 
-## ⚙️ Installation & Setup
 
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/Ashwini-Nandagavi /REMS.git
 
-### 🔐 User Roles
----
-### 👤 Customer
----
--Search properties
--Book properties-
--Manage bookings
-
-### 🧑‍💼 Agent
----
--Add/edit/delete properties
--Upload property details
-
-### 🛠️ Admin
----
--Manage users
--Approve/reject listings
--Monitor platform
-
-🔄 Workflow
-graph TD
-A[Agent Adds Property] --> B[Stored in Database]
-B --> C[User Searches Property]
-C --> D[Filtered Results Displayed]
-D --> E[User Books Property]
-E --> F[Admin Verification]
-
-📂 Project Structure
-/REMS
-│── /admin
-│── /agent
-│── /customer
-│── /assets
-│── /uploads
-│── config.php
-│── index.php
-│── database.sql
-│── README.md
-
-📈 Future Enhancements
-💳 Payment Gateway Integration
-📱 Mobile App (Flutter)
-🤖 AI-based recommendations
-🗺️ Google Maps integration
-💬 Chat system
-📚 References
-PHP & MySQL — Jon Duckett
-JavaScript — David Flanagan
