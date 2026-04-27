@@ -1,18 +1,4 @@
-# 🏡 Real Estate Management System (REMS)
 
-<p align="center">
-  <b>A Smart Web Platform for Buying, Selling & Renting Properties</b><br>
-  Built to modernize real estate operations with speed, efficiency, and user convenience.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-PHP-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Server-XAMPP-red?style=for-the-badge">
-</p>
-
----
 # 🏡 Real Estate Management System (REMS)
 
 <p align="center">
